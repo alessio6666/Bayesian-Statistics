@@ -3,9 +3,9 @@ This repository contains the final project for the Bayesian Statistics course he
 ------------------------
 
 # Authors
--Alessio Pani
--Ileana Atena
--Serife Zeynep Erbaysal
--Luca Montalto
--Pinar Nur Ozkaplan
--Giulia Steiner
+- Alessio Pani 
+- Ileana Atena
+- Serife Zeynep Erbaysal
+- Luca Montalto
+- Pinar Nur Ozkaplan
+- Giulia Steiner
