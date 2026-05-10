@@ -1,6 +1,46 @@
 # Gibbs Sampler for Product Partition Models with Covariates (PPMx)
 This repository contains the final project for the Bayesian Statistics course held at Politecnico di Milano in the academic year 2025-2026.
 
+
+# Bayesian Clustering with Exogenous Information 🌌
+> **Gibbs Sampler Implementation for PPMx Models on LISA Gravitational Wave Data**
+
+## 🎯 Project Overview
+This project explores **Bayesian Nonparametric** clustering to identify structural components of the Milky Way (such as the galactic core and arms). We implement a **Product Partition Model with Covariates (PPMx)** to cluster Double White Dwarf (DWD) systems using gravitational wave signals from the **LISA Mission**.
+
+The core innovation is "clustering clusters": using exogenous information (covariates) to guide the partition of observations into physically meaningful groups.
+
+## 🛠️ Technical Highlights
+* **Model:** Product Partition Model (PPM) with a **Pitman-Yor Process** prior.
+* **Innovation:** Implementation of **PPMx**, where the prior on the partition is informed by covariate similarity.
+* **Algorithm:** Custom **Gibbs Sampler** (collapsed) implemented from scratch in Python.
+* **Inference:** Partition estimation via **Binder's Loss function** and uncertainty analysis using **Posterior Similarity Matrices (PSM)**.
+
+## 📊 Key Results
+### PPM vs PPMx Comparison
+The inclusion of covariates (ecliptic coordinates) allows the model to better resolve the spatial structure of galactic sources compared to a standard model.
+
+![Clustering Comparison](images/clustering_comparison.png)
+*Left: Standard PPM (observations only). Right: PPMx (observations + covariates).*
+
+### Posterior Uncertainty
+We evaluated the stability of our clusters using entropy and similarity matrices to ensure MCMC convergence and partition reliability.
+
+![Similarity Matrix](images/psm_heatmap.png)
+*Posterior Similarity Matrix showing the probability of pair-wise clustering.*
+
+## 🌌 Dataset: LISA Mission
+* **Total Data:** 32 Million observations of Double White Dwarfs.
+* **Sample Analyzed:** 3,000 observations (randomly subsampled for MCMC efficiency).
+* **Features:** Initial frequency ($f_0$), frequency derivative ($\dot{f}$), and ecliptic coordinates ($b, l$).
+
+## 📂 Repository Structure
+* `notebooks/`: Detailed Python implementation and exploratory data analysis.
+* `docs/`: Technical report and presentation slides.
+* `images/`: Visualizations of results and model diagnostics.
+
+## 👥 Authors
+[Tuo Nome] & Team (Politecnico di Milano)
 ----
 
 # Authors
