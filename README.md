@@ -37,16 +37,16 @@ We evaluated the stability of our clusters using entropy and similarity matrices
 * **Features:** Initial frequency ($f_0$), frequency derivative ($\dot{f}$), and ecliptic coordinates ($b, l$).
 
 ## Repository Structure
-* `notebooks/`: Detailed Python implementation and exploratory data analysis.
+* [`notebooks/`](notebooks/): Detailed Python implementation and exploratory data analysis.
 * `docs/`:
-   * `Mathematical_Framework.pdf`: Detailed derivation of NIW conjugacy and Gibbs steps.
-   * `BS_Report.pdf`: Full academic report.
-   * `BS_Slides.pdf`: Presentation deck.
-* `images/`: Visualizations of results and model diagnostics.
+   * [`Mathematical_Framework.pdf`](docs/Mathematical_Framework.pdf): Detailed derivation of NIW conjugacy and Gibbs steps.
+   * [`BS_Report.pdf`](docs/BS_Report.pdf): Full academic report.
+   * [`BS_Slides.pdf`](docs/BS_Slides.pdf): Presentation deck.
+* [`images/`](images/): Visualizations of results and model diagnostics.
 
 ----
 
-# Authors
+## Authors
 - Alessio Pani 
 - Ileana Atena
 - Serife Zeynep Erbaysal
