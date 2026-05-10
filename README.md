@@ -44,6 +44,7 @@ We evaluated the stability of our clusters using entropy and similarity matrices
    * [`BS_Slides.pdf`](docs/BS_Slides.pdf): Presentation deck.
 * [`images/`](images/): Visualizations of results and model diagnostics.
 
+---
 
 ## Setup and Requirements
 To run the analysis locally, install the dependencies using:
