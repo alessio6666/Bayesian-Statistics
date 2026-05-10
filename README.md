@@ -39,9 +39,9 @@ We evaluated the stability of our clusters using entropy and similarity matrices
 ## Repository Structure
 * `notebooks/`: Detailed Python implementation and exploratory data analysis.
 * `docs/`:
- * `Mathematical_Framework.pdf`: Detailed derivation of NIW conjugacy and Gibbs steps.
- * `BS_Report.pdf`: Full academic report.
- * `BS_Slides.pdf`: Presentation deck.
+   * `Mathematical_Framework.pdf`: Detailed derivation of NIW conjugacy and Gibbs steps.
+   * `BS_Report.pdf`: Full academic report.
+   * `BS_Slides.pdf`: Presentation deck.
 * `images/`: Visualizations of results and model diagnostics.
 
 ----
