@@ -15,7 +15,7 @@ The core of this work is a custom **Collapsed Gibbs Sampler** built from scratch
 * **Inference:** Partition estimation via **Binder's Loss function** and uncertainty analysis using **Posterior Similarity Matrices (PSM)**.
 
 ## Mathematical Framework
-For a detailed derivation of the algorithm, please refer to the [Technical Implementation Details](docs/Mathematical_Framework.pdf).
+For a detailed derivation of the algorithm, please refer to the [Mathematical Framework](docs/Mathematical_Framework.pdf).
 
 ## Key Results
 ### PPM vs PPMx Comparison
