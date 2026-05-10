@@ -6,7 +6,8 @@ This repository contains the final project for the Bayesian Statistics course he
 > **Gibbs Sampler Implementation for PPMx Models on LISA Gravitational Wave Data**
 
 ## 🎯 Project Overview
-This project explores **Bayesian Nonparametric** clustering to identify structural components of the Milky Way (such as the galactic core and arms). We implement a **Product Partition Model with Covariates (PPMx)** to cluster Double White Dwarf (DWD) systems using gravitational wave signals from the **LISA Mission**.
+This repository contains the final project for the Bayesian Statistics course held at Politecnico di Milano in the academic year 2025-2026.
+This project explores **Bayesian Nonparametric** clustering to identify structural components of the Milky Way. We implement a **Product Partition Model with Covariates (PPMx)** to cluster Double White Dwarf (DWD) systems using gravitational wave signals from the **LISA Mission**.
 
 The core innovation is "clustering clusters": using exogenous information (covariates) to guide the partition of observations into physically meaningful groups.
 
@@ -39,8 +40,6 @@ We evaluated the stability of our clusters using entropy and similarity matrices
 * `docs/`: Technical report and presentation slides.
 * `images/`: Visualizations of results and model diagnostics.
 
-## 👥 Authors
-[Tuo Nome] & Team (Politecnico di Milano)
 ----
 
 # Authors
