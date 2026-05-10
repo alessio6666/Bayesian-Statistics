@@ -47,7 +47,7 @@ We evaluated the stability of our clusters using entropy and similarity matrices
 ----
 
 ## Authors
-- Alessio Pani 
+- Alessio Pani (https://www.linkedin.com/in/alessio-pani-8739b93bb)
 - Ileana Atena
 - Serife Zeynep Erbaysal
 - Luca Montalto
