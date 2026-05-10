@@ -1,7 +1,3 @@
-# Gibbs Sampler for Product Partition Models with Covariates (PPMx)
-This repository contains the final project for the Bayesian Statistics course held at Politecnico di Milano in the academic year 2025-2026.
-
-
 # Bayesian Clustering with Exogenous Information 🌌
 > **Gibbs Sampler Implementation for PPMx Models on LISA Gravitational Wave Data**
 
