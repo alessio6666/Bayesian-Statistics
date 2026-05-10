@@ -60,3 +60,5 @@ pip install -r requirements.txt
 - Luca Montalto
 - Pinar Nur Ozkaplan
 - Giulia Steiner
+
+**Supervisors**: Dr. Riccardo Corradin
