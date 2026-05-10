@@ -49,9 +49,8 @@ We evaluated the stability of our clusters using entropy and similarity matrices
 To run the analysis locally, install the dependencies using:
 ```bash
 pip install -r requirements.txt
-
-
-----
+```
+---
 
 ## Authors
 - [Alessio Pani](https://www.linkedin.com/in/alessio-pani-8739b93bb)
