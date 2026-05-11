@@ -35,6 +35,8 @@ We evaluated the stability of our clusters using entropy and similarity matrices
 * **Analysis:** Conducted on a randomly extracted subsample of **3,000 points** for computational feasibility and to ensure MCMC convergence.
 * **Features:** Initial frequency ($f_0$), frequency derivative ($\dot{f}$), and ecliptic coordinates ($b, l$).
 
+Link to download the [dataset](https://drive.google.com/file/d/13yqxt8hmxKGwBYcN9-lhYbhIZJvrHEJd/view?usp=sharing)
+
 ## Repository Structure
 * [`notebooks/`](notebooks/): Detailed Python implementation and exploratory data analysis.
 * `docs/`:
