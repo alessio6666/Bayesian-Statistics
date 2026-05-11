@@ -1,5 +1,5 @@
-# Bayesian Clustering with Exogenous Information 🌌
-> **Gibbs Sampler Implementation for PPMx Models on LISA Gravitational Wave Data**
+# Gibbs Sampler PPMx for LISA Galactic Clustering 🌌
+> **Bayesian Nonparametric Implementation for Gravitational Wave Source Discovery**
 
 ## Project Overview
 This project explores **Bayesian Nonparametric** clustering to identify structural components of the Milky Way. We implement a **Product Partition Model with Covariates (PPMx)** to cluster Double White Dwarf (DWD) systems using gravitational wave signals from the LISA Mission.
