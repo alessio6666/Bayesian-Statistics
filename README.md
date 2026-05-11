@@ -39,7 +39,7 @@ Link to download the [dataset](https://drive.google.com/file/d/13yqxt8hmxKGwBYcN
 
 ## Repository Structure
 * [`notebooks/`](notebooks/): Detailed Python implementation and exploratory data analysis.
-* `docs/`:
+* [`docs/`](docs/):
    * [`Mathematical_Framework.pdf`](docs/Mathematical_Framework.pdf): Detailed derivation of NIW conjugacy and Gibbs steps.
    * [`BS_Report.pdf`](docs/BS_Report.pdf): Full academic report.
    * [`BS_Slides.pdf`](docs/BS_Slides.pdf): Presentation deck.
