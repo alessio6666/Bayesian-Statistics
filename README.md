@@ -7,7 +7,7 @@ This project explores **Bayesian Nonparametric** clustering to identify structur
 The core innovation is "clustering clusters": using exogenous information (covariates) to guide the partition of observations into physically meaningful groups.
 
 ## Methodology: PPMx & Gibbs Sampling
-We developed a a custom **Collapsed Gibbs Sampler** built from scratch in Python.
+We developed a custom **Collapsed Gibbs Sampler** built from scratch in Python.
 * **Model:** Product Partition Model (PPM) with a **Pitman-Yor Process** prior.
 * **Innovation:** Implementation of **PPMx**, where the prior on the partition is informed by covariate similarity.
 * **Algorithm:** Custom **Gibbs Sampler** (collapsed) implemented from scratch in Python.
